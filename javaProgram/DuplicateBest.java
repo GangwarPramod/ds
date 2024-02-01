@@ -1,4 +1,4 @@
-package com;
+package com.javaProgram;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -20,5 +20,5 @@ public class DuplicateBest {
         }
     }
         long end = System.currentTimeMillis();
-        System.out.println(end-start);
+        //System.out.println(end-start);
 }}

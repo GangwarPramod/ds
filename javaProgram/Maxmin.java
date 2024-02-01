@@ -1,4 +1,4 @@
-package com;
+package com.javaProgram;
 
 public class Maxmin {
     public static void main(String[] args) {

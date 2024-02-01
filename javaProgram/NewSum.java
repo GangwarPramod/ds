@@ -1,4 +1,4 @@
-package com;
+package com.javaProgram;
 
 public class NewSum {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package com;
+package com.javaProgram;
 
 public class PairSuminOneLoop {
     public static void main(String[] args) {
-        int[] arr = new int[]{4,7,8,15};
+        int[] arr = new int[]{4,7,8,15,9,6,9,7};
         int target=13;
         boolean flag=false;
         int i=0;

@@ -1,4 +1,4 @@
-package com;
+package com.javaProgram;
 
 public class MergeArray {
     public static void main(String []args){

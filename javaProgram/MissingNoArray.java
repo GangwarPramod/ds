@@ -1,4 +1,4 @@
-package com;
+package com.javaProgram;
 
 public class MissingNoArray {
   static   int[] arr = {3, 4, 6, 8,9};
